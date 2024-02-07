@@ -1,13 +1,13 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              새내기 백엔드 개발자
+email:              dkdl8412@gmail.com
+description:        새내기 백엔드 개발자
+author:             2Ludy
 baseurl:            ""
 url:                "https://2ludy.github.io"
 
 # Social Profiles
 twitter_username:   
-github_username:    
+github_username:   2Ludy 
 facebook_username:  
 instagram_username:  
 linkedin_username:
